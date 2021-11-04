@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "toggle-demo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
